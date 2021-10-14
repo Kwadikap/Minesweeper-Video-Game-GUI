@@ -1,6 +1,5 @@
 
 //LINK TO YOUTUBE VIDEO:https://youtu.be/CsHyL86fMdk
-//MineSweeper Gui Code:
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.FlowLayout;
